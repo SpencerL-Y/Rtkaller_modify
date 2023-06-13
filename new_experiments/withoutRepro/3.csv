@@ -1,0 +1,1861 @@
+2023/06/12 16:55:21 VMs 1, executed 0, corpus cover 5589, corpus signal 5429, max signal 0, crashes 0, repro 0
+2023/06/12 16:55:31 VMs 1, executed 597, corpus cover 7864, corpus signal 8239, max signal 11138, crashes 0, repro 0
+2023/06/12 16:55:41 VMs 1, executed 942, corpus cover 8182, corpus signal 8818, max signal 13136, crashes 0, repro 0
+2023/06/12 16:55:51 VMs 1, executed 1356, corpus cover 8676, corpus signal 9548, max signal 13630, crashes 0, repro 0
+2023/06/12 16:56:01 VMs 1, executed 2400, corpus cover 9702, corpus signal 11297, max signal 14281, crashes 0, repro 0
+2023/06/12 16:56:11 VMs 1, executed 2400, corpus cover 10032, corpus signal 11819, max signal 14281, crashes 0, repro 0
+2023/06/12 16:56:21 VMs 1, executed 2990, corpus cover 10306, corpus signal 12846, max signal 14394, crashes 0, repro 0
+2023/06/12 16:56:31 VMs 1, executed 4117, corpus cover 10854, corpus signal 14062, max signal 16284, crashes 0, repro 0
+2023/06/12 16:56:41 VMs 1, executed 5539, corpus cover 11767, corpus signal 15260, max signal 16569, crashes 0, repro 0
+2023/06/12 16:56:51 VMs 1, executed 6041, corpus cover 11922, corpus signal 15523, max signal 17544, crashes 0, repro 0
+2023/06/12 16:57:01 VMs 1, executed 6674, corpus cover 12252, corpus signal 15948, max signal 18577, crashes 0, repro 0
+2023/06/12 16:57:11 VMs 1, executed 6674, corpus cover 12315, corpus signal 16029, max signal 18577, crashes 0, repro 0
+2023/06/12 16:57:21 VMs 1, executed 6805, corpus cover 12315, corpus signal 16032, max signal 18604, crashes 0, repro 0
+2023/06/12 16:57:31 VMs 1, executed 7104, corpus cover 13059, corpus signal 17095, max signal 18627, crashes 0, repro 0
+2023/06/12 16:57:41 VMs 1, executed 7926, corpus cover 13341, corpus signal 17510, max signal 19604, crashes 0, repro 0
+2023/06/12 16:57:51 VMs 1, executed 8043, corpus cover 13384, corpus signal 17575, max signal 19659, crashes 0, repro 0
+2023/06/12 16:58:01 VMs 1, executed 8176, corpus cover 13441, corpus signal 17630, max signal 19669, crashes 0, repro 0
+2023/06/12 16:58:11 VMs 1, executed 8176, corpus cover 13518, corpus signal 17828, max signal 19669, crashes 0, repro 0
+2023/06/12 16:58:21 VMs 1, executed 8836, corpus cover 13822, corpus signal 18213, max signal 20654, crashes 0, repro 0
+2023/06/12 16:58:31 VMs 1, executed 9480, corpus cover 14127, corpus signal 18583, max signal 21161, crashes 0, repro 0
+2023/06/12 16:58:41 VMs 1, executed 10793, corpus cover 15538, corpus signal 19300, max signal 21482, crashes 0, repro 0
+2023/06/12 16:58:51 VMs 1, executed 11469, corpus cover 15768, corpus signal 19641, max signal 25914, crashes 0, repro 0
+2023/06/12 16:59:01 VMs 1, executed 12285, corpus cover 16042, corpus signal 20042, max signal 26243, crashes 0, repro 0
+2023/06/12 16:59:11 VMs 1, executed 12285, corpus cover 18179, corpus signal 23300, max signal 26243, crashes 0, repro 0
+2023/06/12 16:59:21 VMs 1, executed 13148, corpus cover 18506, corpus signal 23690, max signal 26537, crashes 0, repro 0
+2023/06/12 16:59:31 VMs 1, executed 13927, corpus cover 18926, corpus signal 24509, max signal 26611, crashes 0, repro 0
+2023/06/12 16:59:41 VMs 1, executed 14999, corpus cover 19376, corpus signal 25156, max signal 27552, crashes 0, repro 0
+2023/06/12 16:59:51 VMs 1, executed 15748, corpus cover 19805, corpus signal 25729, max signal 30435, crashes 0, repro 0
+2023/06/12 17:00:01 VMs 1, executed 16546, corpus cover 20049, corpus signal 25967, max signal 30504, crashes 0, repro 0
+2023/06/12 17:00:11 VMs 1, executed 16546, corpus cover 21625, corpus signal 27947, max signal 30504, crashes 0, repro 0
+2023/06/12 17:00:21 VMs 1, executed 17284, corpus cover 23062, corpus signal 29488, max signal 30942, crashes 0, repro 0
+2023/06/12 17:00:31 VMs 1, executed 18171, corpus cover 23394, corpus signal 29979, max signal 33078, crashes 0, repro 0
+2023/06/12 17:00:41 VMs 1, executed 19126, corpus cover 23594, corpus signal 30313, max signal 33447, crashes 0, repro 0
+2023/06/12 17:00:51 VMs 1, executed 19282, corpus cover 23689, corpus signal 30443, max signal 33728, crashes 0, repro 0
+2023/06/12 17:01:01 VMs 1, executed 20066, corpus cover 23951, corpus signal 30833, max signal 34211, crashes 0, repro 0
+2023/06/12 17:01:11 VMs 1, executed 20066, corpus cover 24081, corpus signal 31030, max signal 34211, crashes 0, repro 0
+2023/06/12 17:01:21 VMs 1, executed 20512, corpus cover 24110, corpus signal 31073, max signal 34297, crashes 0, repro 0
+2023/06/12 17:01:31 VMs 1, executed 20643, corpus cover 24173, corpus signal 31154, max signal 34318, crashes 0, repro 0
+2023/06/12 17:01:41 VMs 1, executed 20821, corpus cover 24194, corpus signal 31194, max signal 34399, crashes 0, repro 0
+2023/06/12 17:01:51 VMs 1, executed 20989, corpus cover 24347, corpus signal 31399, max signal 34954, crashes 0, repro 0
+2023/06/12 17:02:01 VMs 1, executed 21133, corpus cover 24649, corpus signal 31787, max signal 35020, crashes 0, repro 0
+2023/06/12 17:02:11 VMs 1, executed 21133, corpus cover 24653, corpus signal 31794, max signal 35020, crashes 0, repro 0
+2023/06/12 17:02:21 VMs 1, executed 21218, corpus cover 24677, corpus signal 31826, max signal 35114, crashes 0, repro 0
+2023/06/12 17:02:31 VMs 1, executed 21338, corpus cover 24689, corpus signal 31850, max signal 35247, crashes 0, repro 0
+2023/06/12 17:02:41 VMs 1, executed 21410, corpus cover 24697, corpus signal 31862, max signal 35273, crashes 0, repro 0
+2023/06/12 17:02:51 VMs 1, executed 21534, corpus cover 24770, corpus signal 31957, max signal 35284, crashes 0, repro 0
+2023/06/12 17:03:01 VMs 1, executed 21655, corpus cover 24798, corpus signal 31996, max signal 35312, crashes 0, repro 0
+2023/06/12 17:03:11 VMs 1, executed 21655, corpus cover 24804, corpus signal 32001, max signal 35312, crashes 0, repro 0
+2023/06/12 17:03:21 VMs 1, executed 21718, corpus cover 24808, corpus signal 32028, max signal 35353, crashes 0, repro 0
+2023/06/12 17:03:31 VMs 1, executed 21833, corpus cover 24869, corpus signal 32112, max signal 35367, crashes 0, repro 0
+2023/06/12 17:03:41 VMs 1, executed 22049, corpus cover 24951, corpus signal 32232, max signal 35445, crashes 0, repro 0
+2023/06/12 17:03:51 VMs 1, executed 22325, corpus cover 25026, corpus signal 32367, max signal 35598, crashes 0, repro 0
+2023/06/12 17:04:01 VMs 1, executed 22589, corpus cover 25179, corpus signal 32506, max signal 36173, crashes 0, repro 0
+2023/06/12 17:04:11 VMs 1, executed 22589, corpus cover 25398, corpus signal 32796, max signal 36173, crashes 0, repro 0
+2023/06/12 17:04:21 VMs 1, executed 23241, corpus cover 25700, corpus signal 33262, max signal 36400, crashes 0, repro 0
+2023/06/12 17:04:31 VMs 1, executed 24313, corpus cover 25989, corpus signal 33502, max signal 36688, crashes 0, repro 0
+2023/06/12 17:04:41 VMs 1, executed 24992, corpus cover 26183, corpus signal 33740, max signal 36843, crashes 0, repro 0
+2023/06/12 17:04:51 VMs 1, executed 25790, corpus cover 26467, corpus signal 34125, max signal 37860, crashes 0, repro 0
+2023/06/12 17:05:01 VMs 1, executed 26792, corpus cover 26842, corpus signal 34638, max signal 38288, crashes 0, repro 0
+2023/06/12 17:05:11 VMs 1, executed 26792, corpus cover 26884, corpus signal 34718, max signal 38288, crashes 0, repro 0
+2023/06/12 17:05:21 VMs 1, executed 27428, corpus cover 26964, corpus signal 34835, max signal 38895, crashes 0, repro 0
+2023/06/12 17:05:31 VMs 1, executed 27761, corpus cover 27115, corpus signal 35092, max signal 38929, crashes 0, repro 0
+2023/06/12 17:05:41 VMs 1, executed 28573, corpus cover 27335, corpus signal 35423, max signal 39128, crashes 0, repro 0
+2023/06/12 17:05:51 VMs 1, executed 28992, corpus cover 27397, corpus signal 35509, max signal 39804, crashes 0, repro 0
+2023/06/12 17:06:01 VMs 1, executed 29380, corpus cover 27486, corpus signal 35809, max signal 40025, crashes 0, repro 0
+2023/06/12 17:06:11 VMs 1, executed 29380, corpus cover 27505, corpus signal 35846, max signal 40025, crashes 0, repro 0
+2023/06/12 17:06:21 VMs 1, executed 29616, corpus cover 27837, corpus signal 36460, max signal 40029, crashes 0, repro 0
+2023/06/12 17:06:31 VMs 1, executed 30426, corpus cover 28262, corpus signal 37003, max signal 40363, crashes 0, repro 0
+2023/06/12 17:06:41 VMs 1, executed 31298, corpus cover 28424, corpus signal 37243, max signal 41042, crashes 0, repro 0
+2023/06/12 17:06:51 VMs 1, executed 31514, corpus cover 28428, corpus signal 37254, max signal 41072, crashes 0, repro 0
+2023/06/12 17:07:01 VMs 1, executed 31637, corpus cover 28430, corpus signal 37258, max signal 41133, crashes 0, repro 0
+2023/06/12 17:07:11 VMs 1, executed 31637, corpus cover 28509, corpus signal 37385, max signal 41133, crashes 0, repro 0
+2023/06/12 17:07:21 VMs 1, executed 32067, corpus cover 28849, corpus signal 37836, max signal 41573, crashes 0, repro 0
+2023/06/12 17:07:31 VMs 1, executed 32878, corpus cover 29016, corpus signal 37957, max signal 41920, crashes 0, repro 0
+2023/06/12 17:07:41 VMs 1, executed 33550, corpus cover 29171, corpus signal 38382, max signal 42348, crashes 0, repro 0
+2023/06/12 17:07:51 VMs 1, executed 34320, corpus cover 29289, corpus signal 38558, max signal 42641, crashes 0, repro 0
+2023/06/12 17:08:01 VMs 1, executed 34459, corpus cover 29295, corpus signal 38568, max signal 42775, crashes 0, repro 0
+2023/06/12 17:08:11 VMs 1, executed 34459, corpus cover 29299, corpus signal 38575, max signal 42775, crashes 0, repro 0
+2023/06/12 17:08:21 VMs 1, executed 34584, corpus cover 29303, corpus signal 38583, max signal 42880, crashes 0, repro 0
+2023/06/12 17:08:31 VMs 1, executed 34714, corpus cover 29353, corpus signal 38653, max signal 42926, crashes 0, repro 0
+2023/06/12 17:08:41 VMs 1, executed 34895, corpus cover 29500, corpus signal 38864, max signal 43010, crashes 0, repro 0
+2023/06/12 17:08:51 VMs 1, executed 35337, corpus cover 29526, corpus signal 38909, max signal 43057, crashes 0, repro 0
+2023/06/12 17:09:01 VMs 1, executed 35629, corpus cover 29542, corpus signal 38939, max signal 43582, crashes 0, repro 0
+2023/06/12 17:09:11 VMs 1, executed 35629, corpus cover 29585, corpus signal 39007, max signal 43582, crashes 0, repro 0
+2023/06/12 17:09:21 VMs 1, executed 35855, corpus cover 29689, corpus signal 39168, max signal 43644, crashes 0, repro 0
+2023/06/12 17:09:31 VMs 1, executed 36495, corpus cover 29990, corpus signal 39549, max signal 43700, crashes 0, repro 0
+2023/06/12 17:09:41 VMs 1, executed 36772, corpus cover 30051, corpus signal 39628, max signal 44021, crashes 0, repro 0
+2023/06/12 17:09:51 VMs 1, executed 37400, corpus cover 30439, corpus signal 40145, max signal 44647, crashes 0, repro 0
+2023/06/12 17:10:01 VMs 1, executed 38279, corpus cover 31046, corpus signal 41015, max signal 44968, crashes 0, repro 0
+2023/06/12 17:10:11 VMs 1, executed 38279, corpus cover 31355, corpus signal 41309, max signal 44968, crashes 0, repro 0
+2023/06/12 17:10:21 VMs 1, executed 38759, corpus cover 31590, corpus signal 41633, max signal 45058, crashes 0, repro 0
+2023/06/12 17:10:31 VMs 1, executed 39483, corpus cover 31621, corpus signal 41693, max signal 45477, crashes 0, repro 0
+2023/06/12 17:10:41 VMs 1, executed 39834, corpus cover 31634, corpus signal 41731, max signal 45675, crashes 0, repro 0
+2023/06/12 17:10:51 VMs 1, executed 40375, corpus cover 31750, corpus signal 41886, max signal 46263, crashes 0, repro 0
+2023/06/12 17:11:01 VMs 1, executed 41106, corpus cover 31824, corpus signal 42016, max signal 46371, crashes 0, repro 0
+2023/06/12 17:11:11 VMs 1, executed 41106, corpus cover 32049, corpus signal 42363, max signal 46371, crashes 0, repro 0
+2023/06/12 17:11:21 VMs 1, executed 41584, corpus cover 32121, corpus signal 42496, max signal 47246, crashes 0, repro 0
+2023/06/12 17:11:31 VMs 1, executed 41919, corpus cover 32335, corpus signal 42619, max signal 47379, crashes 0, repro 0
+2023/06/12 17:11:41 VMs 1, executed 42414, corpus cover 32393, corpus signal 42710, max signal 47559, crashes 0, repro 0
+2023/06/12 17:11:51 VMs 1, executed 43159, corpus cover 32459, corpus signal 42817, max signal 47672, crashes 0, repro 0
+2023/06/12 17:12:01 VMs 1, executed 43773, corpus cover 32530, corpus signal 42946, max signal 47881, crashes 0, repro 0
+2023/06/12 17:12:11 VMs 1, executed 43773, corpus cover 32570, corpus signal 43000, max signal 47881, crashes 0, repro 0
+2023/06/12 17:12:21 VMs 1, executed 43994, corpus cover 32570, corpus signal 43002, max signal 47929, crashes 0, repro 0
+2023/06/12 17:12:31 VMs 1, executed 44126, corpus cover 32585, corpus signal 43024, max signal 47933, crashes 0, repro 0
+2023/06/12 17:12:41 VMs 1, executed 44248, corpus cover 32589, corpus signal 43033, max signal 47956, crashes 0, repro 0
+2023/06/12 17:12:51 VMs 1, executed 44532, corpus cover 32626, corpus signal 43103, max signal 47983, crashes 0, repro 0
+2023/06/12 17:13:01 VMs 1, executed 45480, corpus cover 32648, corpus signal 43160, max signal 48127, crashes 0, repro 0
+2023/06/12 17:13:11 VMs 1, executed 45480, corpus cover 32664, corpus signal 43194, max signal 48127, crashes 0, repro 0
+2023/06/12 17:13:21 VMs 1, executed 46062, corpus cover 32685, corpus signal 43351, max signal 48233, crashes 0, repro 0
+2023/06/12 17:13:31 VMs 1, executed 46641, corpus cover 32891, corpus signal 43559, max signal 48429, crashes 0, repro 0
+2023/06/12 17:13:41 VMs 1, executed 47457, corpus cover 33072, corpus signal 43807, max signal 48801, crashes 0, repro 0
+2023/06/12 17:13:51 VMs 1, executed 48060, corpus cover 33120, corpus signal 43858, max signal 49028, crashes 0, repro 0
+2023/06/12 17:14:01 VMs 1, executed 48874, corpus cover 33208, corpus signal 43995, max signal 49286, crashes 0, repro 0
+2023/06/12 17:14:11 VMs 1, executed 48874, corpus cover 33215, corpus signal 44016, max signal 49286, crashes 0, repro 0
+2023/06/12 17:14:21 VMs 1, executed 49519, corpus cover 33263, corpus signal 44111, max signal 49645, crashes 0, repro 0
+2023/06/12 17:14:31 VMs 1, executed 50519, corpus cover 33408, corpus signal 44335, max signal 49803, crashes 0, repro 0
+2023/06/12 17:14:41 VMs 1, executed 51492, corpus cover 33794, corpus signal 44889, max signal 50315, crashes 0, repro 0
+2023/06/12 17:14:51 VMs 1, executed 51636, corpus cover 33794, corpus signal 44889, max signal 50436, crashes 0, repro 0
+2023/06/12 17:15:01 VMs 1, executed 51780, corpus cover 33825, corpus signal 44926, max signal 50679, crashes 0, repro 0
+2023/06/12 17:15:11 VMs 1, executed 51780, corpus cover 34031, corpus signal 45125, max signal 50679, crashes 0, repro 0
+2023/06/12 17:15:21 VMs 1, executed 51916, corpus cover 34041, corpus signal 45148, max signal 50695, crashes 0, repro 0
+2023/06/12 17:15:31 VMs 1, executed 52055, corpus cover 34047, corpus signal 45162, max signal 50719, crashes 0, repro 0
+2023/06/12 17:15:41 VMs 1, executed 52187, corpus cover 34058, corpus signal 45179, max signal 50721, crashes 0, repro 0
+2023/06/12 17:15:51 VMs 1, executed 52312, corpus cover 34063, corpus signal 45204, max signal 50728, crashes 0, repro 0
+2023/06/12 17:16:01 VMs 1, executed 52437, corpus cover 34087, corpus signal 45251, max signal 50732, crashes 0, repro 0
+2023/06/12 17:16:11 VMs 1, executed 52437, corpus cover 34104, corpus signal 45280, max signal 50732, crashes 0, repro 0
+2023/06/12 17:16:21 VMs 1, executed 52569, corpus cover 34129, corpus signal 45326, max signal 50742, crashes 0, repro 0
+2023/06/12 17:16:31 VMs 1, executed 52724, corpus cover 34144, corpus signal 45346, max signal 50786, crashes 0, repro 0
+2023/06/12 17:16:41 VMs 1, executed 52850, corpus cover 34148, corpus signal 45354, max signal 50925, crashes 0, repro 0
+2023/06/12 17:16:51 VMs 1, executed 52994, corpus cover 34149, corpus signal 45356, max signal 51032, crashes 0, repro 0
+2023/06/12 17:17:01 VMs 1, executed 53129, corpus cover 34184, corpus signal 45398, max signal 51079, crashes 0, repro 0
+2023/06/12 17:17:11 VMs 1, executed 53129, corpus cover 34220, corpus signal 45447, max signal 51079, crashes 0, repro 0
+2023/06/12 17:17:21 VMs 1, executed 53251, corpus cover 34242, corpus signal 45476, max signal 51166, crashes 0, repro 0
+2023/06/12 17:17:31 VMs 1, executed 53392, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 0, repro 0
+2023/06/12 17:17:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 0, repro 0
+2023/06/12 17:17:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 0, repro 0
+2023/06/12 17:17:52 vm-0: crash: lost connection to test machine
+2023/06/12 17:17:52 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:18:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 1, repro 0
+2023/06/12 17:18:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 1, repro 0
+2023/06/12 17:18:18 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:18:18 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:18:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 2, repro 0
+2023/06/12 17:18:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 2, repro 0
+2023/06/12 17:18:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 2, repro 0
+2023/06/12 17:18:43 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:18:43 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:18:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 3, repro 0
+2023/06/12 17:19:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 3, repro 0
+2023/06/12 17:19:10 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:19:10 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:19:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 4, repro 0
+2023/06/12 17:19:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 4, repro 0
+2023/06/12 17:19:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 4, repro 0
+2023/06/12 17:19:38 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:19:38 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:19:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 5, repro 0
+2023/06/12 17:19:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 5, repro 0
+2023/06/12 17:20:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 5, repro 0
+2023/06/12 17:20:05 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:20:05 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:20:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 6, repro 0
+2023/06/12 17:20:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 6, repro 0
+2023/06/12 17:20:30 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:20:30 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:20:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 7, repro 0
+2023/06/12 17:20:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 7, repro 0
+2023/06/12 17:20:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 7, repro 0
+2023/06/12 17:20:57 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:20:57 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:21:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 8, repro 0
+2023/06/12 17:21:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 8, repro 0
+2023/06/12 17:21:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 8, repro 0
+2023/06/12 17:21:21 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:21:21 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:21:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 9, repro 0
+2023/06/12 17:21:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 9, repro 0
+2023/06/12 17:21:46 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:21:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:21:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 10, repro 0
+2023/06/12 17:22:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 10, repro 0
+2023/06/12 17:22:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 10, repro 0
+2023/06/12 17:22:11 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:22:11 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:22:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 11, repro 0
+2023/06/12 17:22:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 11, repro 0
+2023/06/12 17:22:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 11, repro 0
+2023/06/12 17:22:42 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:22:42 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:22:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 12, repro 0
+2023/06/12 17:23:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 12, repro 0
+2023/06/12 17:23:06 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:23:06 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:23:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 13, repro 0
+2023/06/12 17:23:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 13, repro 0
+2023/06/12 17:23:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 13, repro 0
+2023/06/12 17:23:31 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:23:31 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:23:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 14, repro 0
+2023/06/12 17:23:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 14, repro 0
+2023/06/12 17:23:56 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:23:56 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:24:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 15, repro 0
+2023/06/12 17:24:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 15, repro 0
+2023/06/12 17:24:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 15, repro 0
+2023/06/12 17:24:21 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:24:21 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:24:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 16, repro 0
+2023/06/12 17:24:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 16, repro 0
+2023/06/12 17:24:46 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:24:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:24:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 17, repro 0
+2023/06/12 17:25:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 17, repro 0
+2023/06/12 17:25:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 17, repro 0
+2023/06/12 17:25:13 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:25:13 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:25:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 18, repro 0
+2023/06/12 17:25:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 18, repro 0
+2023/06/12 17:25:39 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:25:39 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:25:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 19, repro 0
+2023/06/12 17:25:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 19, repro 0
+2023/06/12 17:26:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 19, repro 0
+2023/06/12 17:26:09 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:26:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:26:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 20, repro 0
+2023/06/12 17:26:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 20, repro 0
+2023/06/12 17:26:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 20, repro 0
+2023/06/12 17:26:40 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:26:40 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:26:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 21, repro 0
+2023/06/12 17:26:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 21, repro 0
+2023/06/12 17:27:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 21, repro 0
+2023/06/12 17:27:07 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:27:07 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:27:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 22, repro 0
+2023/06/12 17:27:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 22, repro 0
+2023/06/12 17:27:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 22, repro 0
+2023/06/12 17:27:32 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:27:32 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:27:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 23, repro 0
+2023/06/12 17:27:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 23, repro 0
+2023/06/12 17:27:57 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:27:57 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:28:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 24, repro 0
+2023/06/12 17:28:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 24, repro 0
+2023/06/12 17:28:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 24, repro 0
+2023/06/12 17:28:22 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:28:22 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:28:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 25, repro 0
+2023/06/12 17:28:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 25, repro 0
+2023/06/12 17:28:47 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:28:47 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:28:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 26, repro 0
+2023/06/12 17:29:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 26, repro 0
+2023/06/12 17:29:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 26, repro 0
+2023/06/12 17:29:14 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:29:14 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:29:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 27, repro 0
+2023/06/12 17:29:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 27, repro 0
+2023/06/12 17:29:39 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:29:39 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:29:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 28, repro 0
+2023/06/12 17:29:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 28, repro 0
+2023/06/12 17:30:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 28, repro 0
+2023/06/12 17:30:04 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:30:04 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:30:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 29, repro 0
+2023/06/12 17:30:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 29, repro 0
+2023/06/12 17:30:29 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:30:29 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:30:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 30, repro 0
+2023/06/12 17:30:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 30, repro 0
+2023/06/12 17:30:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 30, repro 0
+2023/06/12 17:30:58 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:30:58 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:31:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 31, repro 0
+2023/06/12 17:31:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 31, repro 0
+2023/06/12 17:31:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 31, repro 0
+2023/06/12 17:31:23 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:31:23 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:31:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 32, repro 0
+2023/06/12 17:31:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 32, repro 0
+2023/06/12 17:31:48 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:31:48 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:31:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 33, repro 0
+2023/06/12 17:32:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 33, repro 0
+2023/06/12 17:32:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 33, repro 0
+2023/06/12 17:32:16 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:32:16 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:32:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 34, repro 0
+2023/06/12 17:32:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 34, repro 0
+2023/06/12 17:32:41 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:32:41 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:32:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 35, repro 0
+2023/06/12 17:32:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 35, repro 0
+2023/06/12 17:33:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 35, repro 0
+2023/06/12 17:33:08 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:33:08 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:33:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 36, repro 0
+2023/06/12 17:33:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 36, repro 0
+2023/06/12 17:33:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 36, repro 0
+2023/06/12 17:33:33 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:33:33 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:33:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 37, repro 0
+2023/06/12 17:33:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 37, repro 0
+2023/06/12 17:33:57 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:33:57 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:34:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 38, repro 0
+2023/06/12 17:34:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 38, repro 0
+2023/06/12 17:34:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 38, repro 0
+2023/06/12 17:34:22 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:34:22 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:34:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 39, repro 0
+2023/06/12 17:34:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 39, repro 0
+2023/06/12 17:34:47 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:34:47 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:34:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 40, repro 0
+2023/06/12 17:35:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 40, repro 0
+2023/06/12 17:35:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 40, repro 0
+2023/06/12 17:35:14 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:35:14 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:35:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 41, repro 0
+2023/06/12 17:35:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 41, repro 0
+2023/06/12 17:35:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 41, repro 0
+2023/06/12 17:35:42 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:35:42 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:35:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 42, repro 0
+2023/06/12 17:36:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 42, repro 0
+2023/06/12 17:36:06 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:36:06 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:36:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 43, repro 0
+2023/06/12 17:36:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 43, repro 0
+2023/06/12 17:36:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 43, repro 0
+2023/06/12 17:36:31 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:36:31 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:36:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 44, repro 0
+2023/06/12 17:36:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 44, repro 0
+2023/06/12 17:36:56 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:36:56 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:37:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 45, repro 0
+2023/06/12 17:37:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 45, repro 0
+2023/06/12 17:37:21 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:37:21 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:37:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 46, repro 0
+2023/06/12 17:37:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 46, repro 0
+2023/06/12 17:37:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 46, repro 0
+2023/06/12 17:37:46 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:37:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:37:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 47, repro 0
+2023/06/12 17:38:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 47, repro 0
+2023/06/12 17:38:11 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:38:11 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:38:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 48, repro 0
+2023/06/12 17:38:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 48, repro 0
+2023/06/12 17:38:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 48, repro 0
+2023/06/12 17:38:36 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:38:36 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:38:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 49, repro 0
+2023/06/12 17:38:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 49, repro 0
+2023/06/12 17:39:01 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:39:01 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:39:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 50, repro 0
+2023/06/12 17:39:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 50, repro 0
+2023/06/12 17:39:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 50, repro 0
+2023/06/12 17:39:26 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:39:26 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:39:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 51, repro 0
+2023/06/12 17:39:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 51, repro 0
+2023/06/12 17:39:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 51, repro 0
+2023/06/12 17:39:53 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:39:53 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:40:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 52, repro 0
+2023/06/12 17:40:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 52, repro 0
+2023/06/12 17:40:18 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:40:18 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:40:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 53, repro 0
+2023/06/12 17:40:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 53, repro 0
+2023/06/12 17:40:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 53, repro 0
+2023/06/12 17:40:43 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:40:43 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:40:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 54, repro 0
+2023/06/12 17:41:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 54, repro 0
+2023/06/12 17:41:08 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:41:08 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:41:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 55, repro 0
+2023/06/12 17:41:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 55, repro 0
+2023/06/12 17:41:31 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 55, repro 0
+2023/06/12 17:41:38 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:41:38 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:41:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 56, repro 0
+2023/06/12 17:41:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 56, repro 0
+2023/06/12 17:42:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 56, repro 0
+2023/06/12 17:42:03 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:42:03 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:42:11 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 57, repro 0
+2023/06/12 17:42:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 57, repro 0
+2023/06/12 17:42:31 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:42:31 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:42:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 58, repro 0
+2023/06/12 17:42:41 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 58, repro 0
+2023/06/12 17:42:51 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 58, repro 0
+2023/06/12 17:42:58 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:42:58 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:43:01 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 59, repro 0
+2023/06/12 17:43:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 59, repro 0
+2023/06/12 17:43:21 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 59, repro 0
+2023/06/12 17:43:23 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 17:43:23 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:43:31 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 60, repro 0
+2023/06/12 17:43:41 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 60, repro 0
+2023/06/12 17:43:48 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:43:48 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:43:51 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 61, repro 0
+2023/06/12 17:44:01 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 61, repro 0
+2023/06/12 17:44:11 VMs 1, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 61, repro 0
+2023/06/12 17:44:13 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 17:44:13 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 17:44:21 VMs 0, executed 53399, corpus cover 34267, corpus signal 45513, max signal 51213, crashes 62, repro 0
+2023/06/12 17:44:31 VMs 1, executed 53399, corpus cover 34270, corpus signal 45522, max signal 51213, crashes 62, repro 0
+2023/06/12 17:44:41 VMs 1, executed 53543, corpus cover 34378, corpus signal 45656, max signal 51354, crashes 62, repro 0
+2023/06/12 17:44:51 VMs 1, executed 53757, corpus cover 34385, corpus signal 45675, max signal 51540, crashes 62, repro 0
+2023/06/12 17:45:01 VMs 1, executed 53757, corpus cover 34458, corpus signal 45792, max signal 51540, crashes 62, repro 0
+2023/06/12 17:45:11 VMs 1, executed 54122, corpus cover 35233, corpus signal 46784, max signal 52527, crashes 62, repro 0
+2023/06/12 17:45:21 VMs 1, executed 54851, corpus cover 35268, corpus signal 46833, max signal 52580, crashes 62, repro 0
+2023/06/12 17:45:31 VMs 1, executed 55044, corpus cover 35269, corpus signal 46836, max signal 52625, crashes 62, repro 0
+2023/06/12 17:45:41 VMs 1, executed 55197, corpus cover 35269, corpus signal 46838, max signal 52679, crashes 62, repro 0
+2023/06/12 17:45:51 VMs 1, executed 55371, corpus cover 35321, corpus signal 46900, max signal 52695, crashes 62, repro 0
+2023/06/12 17:46:01 VMs 1, executed 55371, corpus cover 35329, corpus signal 46929, max signal 52695, crashes 62, repro 0
+2023/06/12 17:46:11 VMs 1, executed 55701, corpus cover 35339, corpus signal 46950, max signal 52735, crashes 62, repro 0
+2023/06/12 17:46:21 VMs 1, executed 55888, corpus cover 35349, corpus signal 46970, max signal 52765, crashes 62, repro 0
+2023/06/12 17:46:31 VMs 1, executed 56060, corpus cover 35365, corpus signal 46988, max signal 52785, crashes 62, repro 0
+2023/06/12 17:46:41 VMs 1, executed 56190, corpus cover 35379, corpus signal 47011, max signal 52787, crashes 62, repro 0
+2023/06/12 17:46:51 VMs 1, executed 56473, corpus cover 35386, corpus signal 47029, max signal 52940, crashes 62, repro 0
+2023/06/12 17:47:01 VMs 1, executed 56473, corpus cover 35597, corpus signal 47299, max signal 52940, crashes 62, repro 0
+2023/06/12 17:47:11 VMs 1, executed 56972, corpus cover 35869, corpus signal 47696, max signal 53565, crashes 62, repro 0
+2023/06/12 17:47:21 VMs 1, executed 58114, corpus cover 35953, corpus signal 47851, max signal 53618, crashes 62, repro 0
+2023/06/12 17:47:31 VMs 1, executed 58668, corpus cover 35966, corpus signal 47870, max signal 54377, crashes 62, repro 0
+2023/06/12 17:47:41 VMs 1, executed 58959, corpus cover 36005, corpus signal 47919, max signal 54409, crashes 62, repro 0
+2023/06/12 17:47:51 VMs 1, executed 59087, corpus cover 36230, corpus signal 48209, max signal 54412, crashes 62, repro 0
+2023/06/12 17:48:01 VMs 1, executed 59087, corpus cover 36259, corpus signal 48254, max signal 54412, crashes 62, repro 0
+2023/06/12 17:48:11 VMs 1, executed 59209, corpus cover 36608, corpus signal 48688, max signal 54437, crashes 62, repro 0
+2023/06/12 17:48:21 VMs 1, executed 59359, corpus cover 36647, corpus signal 48756, max signal 54445, crashes 62, repro 0
+2023/06/12 17:48:31 VMs 1, executed 59853, corpus cover 36749, corpus signal 48901, max signal 54806, crashes 62, repro 0
+2023/06/12 17:48:41 VMs 1, executed 60803, corpus cover 36919, corpus signal 49183, max signal 54955, crashes 62, repro 0
+2023/06/12 17:48:51 VMs 1, executed 61567, corpus cover 37137, corpus signal 49480, max signal 55276, crashes 62, repro 0
+2023/06/12 17:49:01 VMs 1, executed 61567, corpus cover 37203, corpus signal 49591, max signal 55276, crashes 62, repro 0
+2023/06/12 17:49:11 VMs 1, executed 62342, corpus cover 37260, corpus signal 49673, max signal 55343, crashes 62, repro 0
+2023/06/12 17:49:21 VMs 1, executed 62965, corpus cover 37288, corpus signal 49727, max signal 55455, crashes 62, repro 0
+2023/06/12 17:49:31 VMs 1, executed 63372, corpus cover 37291, corpus signal 49733, max signal 55558, crashes 62, repro 0
+2023/06/12 17:49:41 VMs 1, executed 63556, corpus cover 37434, corpus signal 49937, max signal 55795, crashes 62, repro 0
+2023/06/12 17:49:51 VMs 1, executed 63920, corpus cover 37452, corpus signal 49974, max signal 55798, crashes 62, repro 0
+2023/06/12 17:50:01 VMs 1, executed 63920, corpus cover 37525, corpus signal 50105, max signal 55798, crashes 62, repro 0
+2023/06/12 17:50:11 VMs 1, executed 64312, corpus cover 37578, corpus signal 50207, max signal 55970, crashes 62, repro 0
+2023/06/12 17:50:21 VMs 1, executed 65031, corpus cover 37612, corpus signal 50248, max signal 56110, crashes 62, repro 0
+2023/06/12 17:50:31 VMs 1, executed 65489, corpus cover 37647, corpus signal 50306, max signal 56294, crashes 62, repro 0
+2023/06/12 17:50:41 VMs 1, executed 66495, corpus cover 37707, corpus signal 50413, max signal 56349, crashes 62, repro 0
+2023/06/12 17:50:51 VMs 1, executed 66638, corpus cover 37716, corpus signal 50430, max signal 56438, crashes 62, repro 0
+2023/06/12 17:51:01 VMs 1, executed 66638, corpus cover 37797, corpus signal 50532, max signal 56438, crashes 62, repro 0
+2023/06/12 17:51:11 VMs 1, executed 66984, corpus cover 37998, corpus signal 50903, max signal 56783, crashes 62, repro 0
+2023/06/12 17:51:21 VMs 1, executed 67601, corpus cover 38397, corpus signal 51282, max signal 56856, crashes 62, repro 0
+2023/06/12 17:51:31 VMs 1, executed 68146, corpus cover 38436, corpus signal 51437, max signal 57619, crashes 62, repro 0
+2023/06/12 17:51:41 VMs 1, executed 68412, corpus cover 38447, corpus signal 51455, max signal 57699, crashes 62, repro 0
+2023/06/12 17:51:51 VMs 1, executed 68768, corpus cover 38862, corpus signal 52017, max signal 57761, crashes 62, repro 0
+2023/06/12 17:52:01 VMs 1, executed 68768, corpus cover 38973, corpus signal 52195, max signal 57761, crashes 62, repro 0
+2023/06/12 17:52:11 VMs 1, executed 69410, corpus cover 39136, corpus signal 52427, max signal 58381, crashes 62, repro 0
+2023/06/12 17:52:21 VMs 1, executed 70142, corpus cover 39701, corpus signal 53184, max signal 58973, crashes 62, repro 0
+2023/06/12 17:52:31 VMs 1, executed 70844, corpus cover 39763, corpus signal 53247, max signal 59167, crashes 62, repro 0
+2023/06/12 17:52:41 VMs 1, executed 71240, corpus cover 39763, corpus signal 53248, max signal 59632, crashes 62, repro 0
+2023/06/12 17:52:51 VMs 1, executed 71568, corpus cover 39821, corpus signal 53371, max signal 59840, crashes 62, repro 0
+2023/06/12 17:53:01 VMs 1, executed 71568, corpus cover 40051, corpus signal 53675, max signal 59840, crashes 62, repro 0
+2023/06/12 17:53:11 VMs 1, executed 72254, corpus cover 40247, corpus signal 53972, max signal 59996, crashes 62, repro 0
+2023/06/12 17:53:21 VMs 1, executed 73074, corpus cover 40274, corpus signal 54020, max signal 60099, crashes 62, repro 0
+2023/06/12 17:53:31 VMs 1, executed 73472, corpus cover 40448, corpus signal 54242, max signal 60248, crashes 62, repro 0
+2023/06/12 17:53:41 VMs 1, executed 73949, corpus cover 40455, corpus signal 54272, max signal 60358, crashes 62, repro 0
+2023/06/12 17:53:51 VMs 1, executed 74455, corpus cover 40566, corpus signal 54452, max signal 60585, crashes 62, repro 0
+2023/06/12 17:54:01 VMs 1, executed 74455, corpus cover 40600, corpus signal 54502, max signal 60585, crashes 62, repro 0
+2023/06/12 17:54:11 VMs 1, executed 74878, corpus cover 40623, corpus signal 54543, max signal 60699, crashes 62, repro 0
+2023/06/12 17:54:21 VMs 1, executed 75128, corpus cover 40695, corpus signal 54639, max signal 60802, crashes 62, repro 0
+2023/06/12 17:54:31 VMs 1, executed 75496, corpus cover 40723, corpus signal 54677, max signal 60829, crashes 62, repro 0
+2023/06/12 17:54:41 VMs 1, executed 75871, corpus cover 40767, corpus signal 54741, max signal 61135, crashes 62, repro 0
+2023/06/12 17:54:51 VMs 1, executed 76320, corpus cover 40816, corpus signal 54804, max signal 61160, crashes 62, repro 0
+2023/06/12 17:55:01 VMs 1, executed 76320, corpus cover 40855, corpus signal 54857, max signal 61160, crashes 62, repro 0
+2023/06/12 17:55:11 VMs 1, executed 76446, corpus cover 40880, corpus signal 54895, max signal 61195, crashes 62, repro 0
+2023/06/12 17:55:21 VMs 1, executed 76569, corpus cover 40889, corpus signal 54913, max signal 61224, crashes 62, repro 0
+2023/06/12 17:55:31 VMs 1, executed 76709, corpus cover 40904, corpus signal 54937, max signal 61228, crashes 62, repro 0
+2023/06/12 17:55:41 VMs 1, executed 76843, corpus cover 40915, corpus signal 54950, max signal 61266, crashes 62, repro 0
+2023/06/12 17:55:51 VMs 1, executed 76962, corpus cover 40922, corpus signal 54963, max signal 61281, crashes 62, repro 0
+2023/06/12 17:56:01 VMs 1, executed 76962, corpus cover 40925, corpus signal 54971, max signal 61281, crashes 62, repro 0
+2023/06/12 17:56:11 VMs 1, executed 77100, corpus cover 40967, corpus signal 55039, max signal 61298, crashes 62, repro 0
+2023/06/12 17:56:21 VMs 1, executed 77311, corpus cover 40969, corpus signal 55046, max signal 61312, crashes 62, repro 0
+2023/06/12 17:56:31 VMs 1, executed 77462, corpus cover 40975, corpus signal 55060, max signal 61356, crashes 62, repro 0
+2023/06/12 17:56:41 VMs 1, executed 77759, corpus cover 40985, corpus signal 55086, max signal 61494, crashes 62, repro 0
+2023/06/12 17:56:51 VMs 1, executed 78021, corpus cover 40995, corpus signal 55108, max signal 61525, crashes 62, repro 0
+2023/06/12 17:57:01 VMs 1, executed 78021, corpus cover 41036, corpus signal 55174, max signal 61525, crashes 62, repro 0
+2023/06/12 17:57:11 VMs 1, executed 78364, corpus cover 41065, corpus signal 55221, max signal 61561, crashes 62, repro 0
+2023/06/12 17:57:21 VMs 1, executed 78532, corpus cover 41085, corpus signal 55255, max signal 61564, crashes 62, repro 0
+2023/06/12 17:57:31 VMs 1, executed 78674, corpus cover 41093, corpus signal 55266, max signal 61593, crashes 62, repro 0
+2023/06/12 17:57:41 VMs 1, executed 78853, corpus cover 41117, corpus signal 55304, max signal 61628, crashes 62, repro 0
+2023/06/12 17:57:51 VMs 1, executed 79359, corpus cover 41144, corpus signal 55362, max signal 61680, crashes 62, repro 0
+2023/06/12 17:58:01 VMs 1, executed 79359, corpus cover 41144, corpus signal 55362, max signal 61680, crashes 62, repro 0
+2023/06/12 17:58:11 VMs 1, executed 79708, corpus cover 41254, corpus signal 55516, max signal 61834, crashes 62, repro 0
+2023/06/12 17:58:21 VMs 1, executed 80290, corpus cover 41271, corpus signal 55551, max signal 61900, crashes 62, repro 0
+2023/06/12 17:58:31 VMs 1, executed 80601, corpus cover 41271, corpus signal 55551, max signal 62063, crashes 62, repro 0
+2023/06/12 17:58:41 VMs 1, executed 81199, corpus cover 41386, corpus signal 55744, max signal 62160, crashes 62, repro 0
+2023/06/12 17:58:51 VMs 1, executed 81884, corpus cover 41488, corpus signal 55888, max signal 62312, crashes 62, repro 0
+2023/06/12 17:59:01 VMs 1, executed 81884, corpus cover 41488, corpus signal 55888, max signal 62312, crashes 62, repro 0
+2023/06/12 17:59:11 VMs 1, executed 82190, corpus cover 41490, corpus signal 55902, max signal 62389, crashes 62, repro 0
+2023/06/12 17:59:21 VMs 1, executed 82630, corpus cover 41518, corpus signal 55978, max signal 62414, crashes 62, repro 0
+2023/06/12 17:59:31 VMs 1, executed 82878, corpus cover 41520, corpus signal 55990, max signal 62431, crashes 62, repro 0
+2023/06/12 17:59:41 VMs 1, executed 83033, corpus cover 41530, corpus signal 56013, max signal 62437, crashes 62, repro 0
+2023/06/12 17:59:51 VMs 1, executed 83675, corpus cover 41626, corpus signal 56170, max signal 62774, crashes 62, repro 0
+2023/06/12 18:00:01 VMs 1, executed 83675, corpus cover 41631, corpus signal 56182, max signal 62774, crashes 62, repro 0
+2023/06/12 18:00:11 VMs 1, executed 84164, corpus cover 41845, corpus signal 56456, max signal 62871, crashes 62, repro 0
+2023/06/12 18:00:21 VMs 1, executed 84509, corpus cover 41863, corpus signal 56495, max signal 62909, crashes 62, repro 0
+2023/06/12 18:00:31 VMs 1, executed 84873, corpus cover 41890, corpus signal 56536, max signal 62963, crashes 62, repro 0
+2023/06/12 18:00:41 VMs 1, executed 85506, corpus cover 41926, corpus signal 56599, max signal 63052, crashes 62, repro 0
+2023/06/12 18:00:51 VMs 1, executed 85971, corpus cover 41989, corpus signal 56696, max signal 63116, crashes 62, repro 0
+2023/06/12 18:01:01 VMs 1, executed 85971, corpus cover 41989, corpus signal 56700, max signal 63116, crashes 62, repro 0
+2023/06/12 18:01:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 62, repro 0
+2023/06/12 18:01:21 vm-0: crash: lost connection to test machine
+2023/06/12 18:01:21 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:01:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 63, repro 0
+2023/06/12 18:01:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 63, repro 0
+2023/06/12 18:01:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 63, repro 0
+2023/06/12 18:01:48 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:01:48 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:01:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 64, repro 0
+2023/06/12 18:02:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 64, repro 0
+2023/06/12 18:02:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 64, repro 0
+2023/06/12 18:02:13 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:02:13 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:02:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 65, repro 0
+2023/06/12 18:02:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 65, repro 0
+2023/06/12 18:02:41 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:02:41 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:02:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 66, repro 0
+2023/06/12 18:02:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 66, repro 0
+2023/06/12 18:03:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 66, repro 0
+2023/06/12 18:03:06 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:03:06 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:03:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 67, repro 0
+2023/06/12 18:03:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 67, repro 0
+2023/06/12 18:03:31 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:03:31 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:03:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 68, repro 0
+2023/06/12 18:03:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 68, repro 0
+2023/06/12 18:03:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 68, repro 0
+2023/06/12 18:03:56 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:03:56 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:04:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 69, repro 0
+2023/06/12 18:04:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 69, repro 0
+2023/06/12 18:04:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 69, repro 0
+2023/06/12 18:04:22 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:04:22 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:04:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 70, repro 0
+2023/06/12 18:04:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 70, repro 0
+2023/06/12 18:04:47 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:04:47 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:04:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 71, repro 0
+2023/06/12 18:05:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 71, repro 0
+2023/06/12 18:05:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 71, repro 0
+2023/06/12 18:05:12 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:05:12 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:05:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 72, repro 0
+2023/06/12 18:05:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 72, repro 0
+2023/06/12 18:05:38 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:05:38 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:05:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 73, repro 0
+2023/06/12 18:05:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 73, repro 0
+2023/06/12 18:06:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 73, repro 0
+2023/06/12 18:06:03 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:06:03 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:06:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 74, repro 0
+2023/06/12 18:06:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 74, repro 0
+2023/06/12 18:06:28 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:06:28 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:06:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 75, repro 0
+2023/06/12 18:06:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 75, repro 0
+2023/06/12 18:06:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 75, repro 0
+2023/06/12 18:06:54 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:06:54 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:07:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 76, repro 0
+2023/06/12 18:07:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 76, repro 0
+2023/06/12 18:07:18 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:07:18 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:07:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 77, repro 0
+2023/06/12 18:07:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 77, repro 0
+2023/06/12 18:07:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 77, repro 0
+2023/06/12 18:07:44 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:07:44 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:07:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 78, repro 0
+2023/06/12 18:08:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 78, repro 0
+2023/06/12 18:08:09 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:08:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:08:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 79, repro 0
+2023/06/12 18:08:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 79, repro 0
+2023/06/12 18:08:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 79, repro 0
+2023/06/12 18:08:34 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:08:34 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:08:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 80, repro 0
+2023/06/12 18:08:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 80, repro 0
+2023/06/12 18:09:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 80, repro 0
+2023/06/12 18:09:02 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:09:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:09:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 81, repro 0
+2023/06/12 18:09:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 81, repro 0
+2023/06/12 18:09:27 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:09:27 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:09:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 82, repro 0
+2023/06/12 18:09:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 82, repro 0
+2023/06/12 18:09:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 82, repro 0
+2023/06/12 18:09:52 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:09:52 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:10:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 83, repro 0
+2023/06/12 18:10:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 83, repro 0
+2023/06/12 18:10:18 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:10:18 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:10:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 84, repro 0
+2023/06/12 18:10:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 84, repro 0
+2023/06/12 18:10:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 84, repro 0
+2023/06/12 18:10:43 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:10:43 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:10:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 85, repro 0
+2023/06/12 18:11:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 85, repro 0
+2023/06/12 18:11:08 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:11:08 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:11:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 86, repro 0
+2023/06/12 18:11:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 86, repro 0
+2023/06/12 18:11:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 86, repro 0
+2023/06/12 18:11:36 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:11:36 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:11:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 87, repro 0
+2023/06/12 18:11:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 87, repro 0
+2023/06/12 18:12:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 87, repro 0
+2023/06/12 18:12:04 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:12:04 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:12:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 88, repro 0
+2023/06/12 18:12:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 88, repro 0
+2023/06/12 18:12:29 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:12:29 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:12:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 89, repro 0
+2023/06/12 18:12:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 89, repro 0
+2023/06/12 18:12:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 89, repro 0
+2023/06/12 18:12:54 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:12:54 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:13:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 90, repro 0
+2023/06/12 18:13:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 90, repro 0
+2023/06/12 18:13:19 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:13:19 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:13:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 91, repro 0
+2023/06/12 18:13:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 91, repro 0
+2023/06/12 18:13:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 91, repro 0
+2023/06/12 18:13:47 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:13:47 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:13:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 92, repro 0
+2023/06/12 18:14:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 92, repro 0
+2023/06/12 18:14:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 92, repro 0
+2023/06/12 18:14:12 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:14:12 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:14:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 93, repro 0
+2023/06/12 18:14:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 93, repro 0
+2023/06/12 18:14:37 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:14:37 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:14:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 94, repro 0
+2023/06/12 18:14:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 94, repro 0
+2023/06/12 18:15:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 94, repro 0
+2023/06/12 18:15:03 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:15:03 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:15:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 95, repro 0
+2023/06/12 18:15:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 95, repro 0
+2023/06/12 18:15:28 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:15:28 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:15:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 96, repro 0
+2023/06/12 18:15:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 96, repro 0
+2023/06/12 18:15:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 96, repro 0
+2023/06/12 18:15:54 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:15:54 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:16:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 97, repro 0
+2023/06/12 18:16:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 97, repro 0
+2023/06/12 18:16:19 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:16:19 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:16:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 98, repro 0
+2023/06/12 18:16:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 98, repro 0
+2023/06/12 18:16:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 98, repro 0
+2023/06/12 18:16:44 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:16:44 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:16:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 99, repro 0
+2023/06/12 18:17:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 99, repro 0
+2023/06/12 18:17:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 99, repro 0
+2023/06/12 18:17:12 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:17:12 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:17:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 100, repro 0
+2023/06/12 18:17:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 100, repro 0
+2023/06/12 18:17:37 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:17:37 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:17:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 101, repro 0
+2023/06/12 18:17:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 101, repro 0
+2023/06/12 18:18:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 101, repro 0
+2023/06/12 18:18:03 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:18:03 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:18:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 102, repro 0
+2023/06/12 18:18:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 102, repro 0
+2023/06/12 18:18:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 102, repro 0
+2023/06/12 18:18:31 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:18:31 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:18:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 103, repro 0
+2023/06/12 18:18:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 103, repro 0
+2023/06/12 18:18:57 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:18:57 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:19:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 104, repro 0
+2023/06/12 18:19:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 104, repro 0
+2023/06/12 18:19:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 104, repro 0
+2023/06/12 18:19:24 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:19:24 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:19:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 105, repro 0
+2023/06/12 18:19:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 105, repro 0
+2023/06/12 18:19:50 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:19:50 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:19:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 106, repro 0
+2023/06/12 18:20:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 106, repro 0
+2023/06/12 18:20:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 106, repro 0
+2023/06/12 18:20:15 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:20:15 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:20:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 107, repro 0
+2023/06/12 18:20:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 107, repro 0
+2023/06/12 18:20:40 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:20:40 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:20:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 108, repro 0
+2023/06/12 18:20:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 108, repro 0
+2023/06/12 18:21:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 108, repro 0
+2023/06/12 18:21:07 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:21:07 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:21:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 109, repro 0
+2023/06/12 18:21:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 109, repro 0
+2023/06/12 18:21:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 109, repro 0
+2023/06/12 18:21:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 109, repro 0
+2023/06/12 18:21:50 vm-0: crash: lost connection to test machine
+2023/06/12 18:21:50 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:21:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 110, repro 0
+2023/06/12 18:22:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 110, repro 0
+2023/06/12 18:22:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 110, repro 0
+2023/06/12 18:22:15 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:22:15 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:22:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 111, repro 0
+2023/06/12 18:22:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 111, repro 0
+2023/06/12 18:22:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 111, repro 0
+2023/06/12 18:22:44 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:22:44 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:22:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 112, repro 0
+2023/06/12 18:23:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 112, repro 0
+2023/06/12 18:23:09 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:23:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:23:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 113, repro 0
+2023/06/12 18:23:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 113, repro 0
+2023/06/12 18:23:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 113, repro 0
+2023/06/12 18:23:35 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:23:35 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:23:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 114, repro 0
+2023/06/12 18:23:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 114, repro 0
+2023/06/12 18:24:00 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:24:00 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:24:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 115, repro 0
+2023/06/12 18:24:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 115, repro 0
+2023/06/12 18:24:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 115, repro 0
+2023/06/12 18:24:28 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:24:28 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:24:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 116, repro 0
+2023/06/12 18:24:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 116, repro 0
+2023/06/12 18:24:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 116, repro 0
+2023/06/12 18:24:53 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:24:53 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:25:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 117, repro 0
+2023/06/12 18:25:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 117, repro 0
+2023/06/12 18:25:18 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:25:18 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:25:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 118, repro 0
+2023/06/12 18:25:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 118, repro 0
+2023/06/12 18:25:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 118, repro 0
+2023/06/12 18:25:43 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:25:43 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:25:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 119, repro 0
+2023/06/12 18:26:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 119, repro 0
+2023/06/12 18:26:09 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:26:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:26:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 120, repro 0
+2023/06/12 18:26:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 120, repro 0
+2023/06/12 18:26:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 120, repro 0
+2023/06/12 18:26:34 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:26:34 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:26:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 121, repro 0
+2023/06/12 18:26:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 121, repro 0
+2023/06/12 18:26:59 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:26:59 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:27:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 122, repro 0
+2023/06/12 18:27:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 122, repro 0
+2023/06/12 18:27:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 122, repro 0
+2023/06/12 18:27:24 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:27:24 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:27:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 123, repro 0
+2023/06/12 18:27:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 123, repro 0
+2023/06/12 18:27:50 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:27:50 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:27:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 124, repro 0
+2023/06/12 18:28:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 124, repro 0
+2023/06/12 18:28:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 124, repro 0
+2023/06/12 18:28:15 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:28:15 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:28:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 125, repro 0
+2023/06/12 18:28:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 125, repro 0
+2023/06/12 18:28:40 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:28:40 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:28:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 126, repro 0
+2023/06/12 18:28:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 126, repro 0
+2023/06/12 18:29:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 126, repro 0
+2023/06/12 18:29:08 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:29:08 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:29:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 127, repro 0
+2023/06/12 18:29:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 127, repro 0
+2023/06/12 18:29:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 127, repro 0
+2023/06/12 18:29:35 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:29:35 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:29:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 128, repro 0
+2023/06/12 18:29:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 128, repro 0
+2023/06/12 18:30:00 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:30:00 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:30:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 129, repro 0
+2023/06/12 18:30:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 129, repro 0
+2023/06/12 18:30:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 129, repro 0
+2023/06/12 18:30:26 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:30:26 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:30:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 130, repro 0
+2023/06/12 18:30:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 130, repro 0
+2023/06/12 18:30:51 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:30:51 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:30:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 131, repro 0
+2023/06/12 18:31:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 131, repro 0
+2023/06/12 18:31:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 131, repro 0
+2023/06/12 18:31:16 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:31:16 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:31:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 132, repro 0
+2023/06/12 18:31:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 132, repro 0
+2023/06/12 18:31:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 132, repro 0
+2023/06/12 18:31:44 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:31:44 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:31:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 133, repro 0
+2023/06/12 18:32:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 133, repro 0
+2023/06/12 18:32:09 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:32:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:32:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 134, repro 0
+2023/06/12 18:32:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 134, repro 0
+2023/06/12 18:32:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 134, repro 0
+2023/06/12 18:32:35 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:32:35 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:32:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 135, repro 0
+2023/06/12 18:32:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 135, repro 0
+2023/06/12 18:33:00 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:33:00 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:33:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 136, repro 0
+2023/06/12 18:33:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 136, repro 0
+2023/06/12 18:33:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 136, repro 0
+2023/06/12 18:33:25 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:33:25 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:33:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 137, repro 0
+2023/06/12 18:33:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 137, repro 0
+2023/06/12 18:33:51 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:33:51 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:33:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 138, repro 0
+2023/06/12 18:34:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 138, repro 0
+2023/06/12 18:34:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 138, repro 0
+2023/06/12 18:34:16 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:34:16 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:34:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 139, repro 0
+2023/06/12 18:34:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 139, repro 0
+2023/06/12 18:34:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 139, repro 0
+2023/06/12 18:34:44 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:34:44 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:34:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 140, repro 0
+2023/06/12 18:35:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 140, repro 0
+2023/06/12 18:35:09 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:35:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:35:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 141, repro 0
+2023/06/12 18:35:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 141, repro 0
+2023/06/12 18:35:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 141, repro 0
+2023/06/12 18:35:37 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:35:37 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:35:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 142, repro 0
+2023/06/12 18:35:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 142, repro 0
+2023/06/12 18:36:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 142, repro 0
+2023/06/12 18:36:02 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:36:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:36:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 143, repro 0
+2023/06/12 18:36:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 143, repro 0
+2023/06/12 18:36:27 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:36:27 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:36:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 144, repro 0
+2023/06/12 18:36:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 144, repro 0
+2023/06/12 18:36:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 144, repro 0
+2023/06/12 18:36:53 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:36:53 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:37:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 145, repro 0
+2023/06/12 18:37:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 145, repro 0
+2023/06/12 18:37:18 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:37:18 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:37:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 146, repro 0
+2023/06/12 18:37:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 146, repro 0
+2023/06/12 18:37:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 146, repro 0
+2023/06/12 18:37:44 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:37:44 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:37:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 147, repro 0
+2023/06/12 18:38:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 147, repro 0
+2023/06/12 18:38:09 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:38:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:38:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 148, repro 0
+2023/06/12 18:38:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 148, repro 0
+2023/06/12 18:38:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 148, repro 0
+2023/06/12 18:38:36 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:38:36 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:38:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 149, repro 0
+2023/06/12 18:38:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 149, repro 0
+2023/06/12 18:39:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 149, repro 0
+2023/06/12 18:39:02 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:39:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:39:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 150, repro 0
+2023/06/12 18:39:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 150, repro 0
+2023/06/12 18:39:27 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:39:27 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:39:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 151, repro 0
+2023/06/12 18:39:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 151, repro 0
+2023/06/12 18:39:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 151, repro 0
+2023/06/12 18:39:53 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:39:53 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:40:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 152, repro 0
+2023/06/12 18:40:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 152, repro 0
+2023/06/12 18:40:19 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:40:19 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:40:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 153, repro 0
+2023/06/12 18:40:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 153, repro 0
+2023/06/12 18:40:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 153, repro 0
+2023/06/12 18:40:45 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:40:45 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:40:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 154, repro 0
+2023/06/12 18:41:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 154, repro 0
+2023/06/12 18:41:10 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:41:10 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:41:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 155, repro 0
+2023/06/12 18:41:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 155, repro 0
+2023/06/12 18:41:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 155, repro 0
+2023/06/12 18:41:37 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:41:37 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:41:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 156, repro 0
+2023/06/12 18:41:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 156, repro 0
+2023/06/12 18:42:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 156, repro 0
+2023/06/12 18:42:02 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:42:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:42:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 157, repro 0
+2023/06/12 18:42:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 157, repro 0
+2023/06/12 18:42:27 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:42:27 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:42:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 158, repro 0
+2023/06/12 18:42:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 158, repro 0
+2023/06/12 18:42:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 158, repro 0
+2023/06/12 18:42:53 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:42:53 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:43:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 159, repro 0
+2023/06/12 18:43:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 159, repro 0
+2023/06/12 18:43:18 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:43:18 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:43:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 160, repro 0
+2023/06/12 18:43:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 160, repro 0
+2023/06/12 18:43:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 160, repro 0
+2023/06/12 18:43:43 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:43:43 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:43:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 161, repro 0
+2023/06/12 18:44:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 161, repro 0
+2023/06/12 18:44:08 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:44:08 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:44:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 162, repro 0
+2023/06/12 18:44:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 162, repro 0
+2023/06/12 18:44:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 162, repro 0
+2023/06/12 18:44:36 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:44:36 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:44:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 163, repro 0
+2023/06/12 18:44:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 163, repro 0
+2023/06/12 18:45:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 163, repro 0
+2023/06/12 18:45:02 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:45:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:45:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 164, repro 0
+2023/06/12 18:45:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 164, repro 0
+2023/06/12 18:45:27 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:45:27 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:45:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 165, repro 0
+2023/06/12 18:45:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 165, repro 0
+2023/06/12 18:45:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 165, repro 0
+2023/06/12 18:45:52 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:45:52 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:46:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 166, repro 0
+2023/06/12 18:46:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 166, repro 0
+2023/06/12 18:46:18 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:46:18 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:46:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 167, repro 0
+2023/06/12 18:46:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 167, repro 0
+2023/06/12 18:46:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 167, repro 0
+2023/06/12 18:46:45 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:46:45 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:46:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 168, repro 0
+2023/06/12 18:47:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 168, repro 0
+2023/06/12 18:47:10 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:47:10 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:47:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 169, repro 0
+2023/06/12 18:47:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 169, repro 0
+2023/06/12 18:47:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 169, repro 0
+2023/06/12 18:47:36 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:47:36 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:47:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 170, repro 0
+2023/06/12 18:47:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 170, repro 0
+2023/06/12 18:48:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 170, repro 0
+2023/06/12 18:48:03 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:48:03 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:48:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 171, repro 0
+2023/06/12 18:48:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 171, repro 0
+2023/06/12 18:48:29 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:48:29 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:48:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 172, repro 0
+2023/06/12 18:48:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 172, repro 0
+2023/06/12 18:48:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 172, repro 0
+2023/06/12 18:48:54 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:48:54 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:49:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 173, repro 0
+2023/06/12 18:49:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 173, repro 0
+2023/06/12 18:49:20 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:49:20 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:49:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 174, repro 0
+2023/06/12 18:49:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 174, repro 0
+2023/06/12 18:49:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 174, repro 0
+2023/06/12 18:49:45 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:49:45 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:49:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 175, repro 0
+2023/06/12 18:50:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 175, repro 0
+2023/06/12 18:50:10 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:50:10 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:50:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 176, repro 0
+2023/06/12 18:50:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 176, repro 0
+2023/06/12 18:50:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 176, repro 0
+2023/06/12 18:50:35 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:50:35 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:50:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 177, repro 0
+2023/06/12 18:50:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 177, repro 0
+2023/06/12 18:51:00 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:51:00 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:51:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 178, repro 0
+2023/06/12 18:51:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 178, repro 0
+2023/06/12 18:51:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 178, repro 0
+2023/06/12 18:51:25 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:51:25 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:51:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 179, repro 0
+2023/06/12 18:51:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 179, repro 0
+2023/06/12 18:51:51 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:51:51 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:51:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 180, repro 0
+2023/06/12 18:52:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 180, repro 0
+2023/06/12 18:52:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 180, repro 0
+2023/06/12 18:52:16 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:52:16 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:52:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 181, repro 0
+2023/06/12 18:52:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 181, repro 0
+2023/06/12 18:52:41 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:52:41 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:52:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 182, repro 0
+2023/06/12 18:52:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 182, repro 0
+2023/06/12 18:53:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 182, repro 0
+2023/06/12 18:53:06 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:53:06 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:53:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 183, repro 0
+2023/06/12 18:53:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 183, repro 0
+2023/06/12 18:53:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 183, repro 0
+2023/06/12 18:53:31 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:53:31 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:53:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 184, repro 0
+2023/06/12 18:53:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 184, repro 0
+2023/06/12 18:53:58 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:53:58 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:54:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 185, repro 0
+2023/06/12 18:54:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 185, repro 0
+2023/06/12 18:54:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 185, repro 0
+2023/06/12 18:54:23 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:54:23 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:54:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 186, repro 0
+2023/06/12 18:54:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 186, repro 0
+2023/06/12 18:54:49 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:54:49 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:54:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 187, repro 0
+2023/06/12 18:55:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 187, repro 0
+2023/06/12 18:55:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 187, repro 0
+2023/06/12 18:55:17 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:55:17 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:55:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 188, repro 0
+2023/06/12 18:55:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 188, repro 0
+2023/06/12 18:55:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 188, repro 0
+2023/06/12 18:55:42 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:55:42 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:55:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 189, repro 0
+2023/06/12 18:56:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 189, repro 0
+2023/06/12 18:56:07 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:56:07 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:56:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 190, repro 0
+2023/06/12 18:56:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 190, repro 0
+2023/06/12 18:56:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 190, repro 0
+2023/06/12 18:56:32 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:56:32 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:56:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 191, repro 0
+2023/06/12 18:56:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 191, repro 0
+2023/06/12 18:56:58 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:56:58 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:57:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 192, repro 0
+2023/06/12 18:57:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 192, repro 0
+2023/06/12 18:57:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 192, repro 0
+2023/06/12 18:57:23 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:57:23 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:57:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 193, repro 0
+2023/06/12 18:57:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 193, repro 0
+2023/06/12 18:57:49 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:57:49 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:57:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 194, repro 0
+2023/06/12 18:58:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 194, repro 0
+2023/06/12 18:58:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 194, repro 0
+2023/06/12 18:58:14 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:58:14 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:58:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 195, repro 0
+2023/06/12 18:58:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 195, repro 0
+2023/06/12 18:58:39 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:58:39 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:58:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 196, repro 0
+2023/06/12 18:58:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 196, repro 0
+2023/06/12 18:59:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 196, repro 0
+2023/06/12 18:59:04 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:59:04 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:59:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 197, repro 0
+2023/06/12 18:59:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 197, repro 0
+2023/06/12 18:59:30 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 18:59:30 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 18:59:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 198, repro 0
+2023/06/12 18:59:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 198, repro 0
+2023/06/12 18:59:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 198, repro 0
+2023/06/12 18:59:55 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 18:59:55 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:00:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 199, repro 0
+2023/06/12 19:00:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 199, repro 0
+2023/06/12 19:00:20 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:00:20 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:00:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 200, repro 0
+2023/06/12 19:00:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 200, repro 0
+2023/06/12 19:00:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 200, repro 0
+2023/06/12 19:00:46 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:00:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:00:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 201, repro 0
+2023/06/12 19:01:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 201, repro 0
+2023/06/12 19:01:11 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:01:11 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:01:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 202, repro 0
+2023/06/12 19:01:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 202, repro 0
+2023/06/12 19:01:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 202, repro 0
+2023/06/12 19:01:36 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:01:36 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:01:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 203, repro 0
+2023/06/12 19:01:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 203, repro 0
+2023/06/12 19:02:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 203, repro 0
+2023/06/12 19:02:02 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:02:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:02:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 204, repro 0
+2023/06/12 19:02:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 204, repro 0
+2023/06/12 19:02:27 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:02:27 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:02:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 205, repro 0
+2023/06/12 19:02:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 205, repro 0
+2023/06/12 19:02:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 205, repro 0
+2023/06/12 19:02:52 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:02:52 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:03:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 206, repro 0
+2023/06/12 19:03:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 206, repro 0
+2023/06/12 19:03:17 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:03:17 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:03:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 207, repro 0
+2023/06/12 19:03:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 207, repro 0
+2023/06/12 19:03:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 207, repro 0
+2023/06/12 19:03:45 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:03:45 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:03:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 208, repro 0
+2023/06/12 19:04:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 208, repro 0
+2023/06/12 19:04:10 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:04:10 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:04:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 209, repro 0
+2023/06/12 19:04:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 209, repro 0
+2023/06/12 19:04:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 209, repro 0
+2023/06/12 19:04:35 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:04:35 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:04:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 210, repro 0
+2023/06/12 19:04:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 210, repro 0
+2023/06/12 19:05:01 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:05:01 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:05:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 211, repro 0
+2023/06/12 19:05:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 211, repro 0
+2023/06/12 19:05:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 211, repro 0
+2023/06/12 19:05:26 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:05:26 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:05:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 212, repro 0
+2023/06/12 19:05:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 212, repro 0
+2023/06/12 19:05:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 212, repro 0
+2023/06/12 19:05:52 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:05:52 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:06:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 213, repro 0
+2023/06/12 19:06:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 213, repro 0
+2023/06/12 19:06:17 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:06:17 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:06:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 214, repro 0
+2023/06/12 19:06:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 214, repro 0
+2023/06/12 19:06:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 214, repro 0
+2023/06/12 19:06:42 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:06:42 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:06:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 215, repro 0
+2023/06/12 19:07:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 215, repro 0
+2023/06/12 19:07:08 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:07:08 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:07:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 216, repro 0
+2023/06/12 19:07:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 216, repro 0
+2023/06/12 19:07:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 216, repro 0
+2023/06/12 19:07:33 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:07:33 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:07:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 217, repro 0
+2023/06/12 19:07:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 217, repro 0
+2023/06/12 19:07:58 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:07:58 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:08:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 218, repro 0
+2023/06/12 19:08:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 218, repro 0
+2023/06/12 19:08:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 218, repro 0
+2023/06/12 19:08:23 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:08:23 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:08:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 219, repro 0
+2023/06/12 19:08:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 219, repro 0
+2023/06/12 19:08:49 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:08:49 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:08:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 220, repro 0
+2023/06/12 19:09:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 220, repro 0
+2023/06/12 19:09:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 220, repro 0
+2023/06/12 19:09:14 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:09:14 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:09:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 221, repro 0
+2023/06/12 19:09:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 221, repro 0
+2023/06/12 19:09:39 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:09:39 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:09:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 222, repro 0
+2023/06/12 19:09:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 222, repro 0
+2023/06/12 19:10:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 222, repro 0
+2023/06/12 19:10:04 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:10:04 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:10:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 223, repro 0
+2023/06/12 19:10:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 223, repro 0
+2023/06/12 19:10:30 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:10:30 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:10:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 224, repro 0
+2023/06/12 19:10:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 224, repro 0
+2023/06/12 19:10:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 224, repro 0
+2023/06/12 19:10:55 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:10:55 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:11:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 225, repro 0
+2023/06/12 19:11:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 225, repro 0
+2023/06/12 19:11:20 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:11:20 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:11:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 226, repro 0
+2023/06/12 19:11:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 226, repro 0
+2023/06/12 19:11:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 226, repro 0
+2023/06/12 19:11:46 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:11:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:11:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 227, repro 0
+2023/06/12 19:12:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 227, repro 0
+2023/06/12 19:12:11 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:12:11 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:12:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 228, repro 0
+2023/06/12 19:12:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 228, repro 0
+2023/06/12 19:12:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 228, repro 0
+2023/06/12 19:12:36 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:12:36 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:12:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 229, repro 0
+2023/06/12 19:12:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 229, repro 0
+2023/06/12 19:13:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 229, repro 0
+2023/06/12 19:13:01 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:13:01 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:13:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 230, repro 0
+2023/06/12 19:13:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 230, repro 0
+2023/06/12 19:13:27 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:13:27 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:13:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 231, repro 0
+2023/06/12 19:13:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 231, repro 0
+2023/06/12 19:13:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 231, repro 0
+2023/06/12 19:13:52 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:13:52 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:14:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 232, repro 0
+2023/06/12 19:14:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 232, repro 0
+2023/06/12 19:14:20 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:14:20 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:14:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 233, repro 0
+2023/06/12 19:14:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 233, repro 0
+2023/06/12 19:14:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 233, repro 0
+2023/06/12 19:14:45 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:14:45 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:14:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 234, repro 0
+2023/06/12 19:15:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 234, repro 0
+2023/06/12 19:15:11 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:15:11 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:15:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 235, repro 0
+2023/06/12 19:15:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 235, repro 0
+2023/06/12 19:15:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 235, repro 0
+2023/06/12 19:15:36 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:15:36 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:15:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 236, repro 0
+2023/06/12 19:15:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 236, repro 0
+2023/06/12 19:16:01 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:16:01 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:16:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 237, repro 0
+2023/06/12 19:16:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 237, repro 0
+2023/06/12 19:16:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 237, repro 0
+2023/06/12 19:16:30 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:16:30 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:16:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 238, repro 0
+2023/06/12 19:16:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 238, repro 0
+2023/06/12 19:16:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 238, repro 0
+2023/06/12 19:16:55 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:16:55 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:17:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 239, repro 0
+2023/06/12 19:17:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 239, repro 0
+2023/06/12 19:17:21 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:17:21 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:17:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 240, repro 0
+2023/06/12 19:17:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 240, repro 0
+2023/06/12 19:17:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 240, repro 0
+2023/06/12 19:17:46 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:17:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:17:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 241, repro 0
+2023/06/12 19:18:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 241, repro 0
+2023/06/12 19:18:11 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:18:11 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:18:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 242, repro 0
+2023/06/12 19:18:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 242, repro 0
+2023/06/12 19:18:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 242, repro 0
+2023/06/12 19:18:37 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:18:37 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:18:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 243, repro 0
+2023/06/12 19:18:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 243, repro 0
+2023/06/12 19:19:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 243, repro 0
+2023/06/12 19:19:02 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:19:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:19:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 244, repro 0
+2023/06/12 19:19:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 244, repro 0
+2023/06/12 19:19:29 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:19:29 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:19:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 245, repro 0
+2023/06/12 19:19:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 245, repro 0
+2023/06/12 19:19:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 245, repro 0
+2023/06/12 19:19:57 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:19:57 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:20:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 246, repro 0
+2023/06/12 19:20:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 246, repro 0
+2023/06/12 19:20:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 246, repro 0
+2023/06/12 19:20:22 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:20:22 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:20:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 247, repro 0
+2023/06/12 19:20:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 247, repro 0
+2023/06/12 19:20:48 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:20:48 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:20:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 248, repro 0
+2023/06/12 19:21:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 248, repro 0
+2023/06/12 19:21:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 248, repro 0
+2023/06/12 19:21:13 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:21:13 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:21:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 249, repro 0
+2023/06/12 19:21:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 249, repro 0
+2023/06/12 19:21:40 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:21:40 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:21:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 250, repro 0
+2023/06/12 19:21:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 250, repro 0
+2023/06/12 19:22:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 250, repro 0
+2023/06/12 19:22:06 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:22:06 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:22:11 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 251, repro 0
+2023/06/12 19:22:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 251, repro 0
+2023/06/12 19:22:31 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:22:31 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:22:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 252, repro 0
+2023/06/12 19:22:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 252, repro 0
+2023/06/12 19:22:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 252, repro 0
+2023/06/12 19:22:56 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:22:56 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:23:01 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 253, repro 0
+2023/06/12 19:23:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 253, repro 0
+2023/06/12 19:23:21 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 253, repro 0
+2023/06/12 19:23:22 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:23:22 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:23:31 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 254, repro 0
+2023/06/12 19:23:41 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 254, repro 0
+2023/06/12 19:23:50 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:23:50 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:23:51 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 255, repro 0
+2023/06/12 19:24:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 255, repro 0
+2023/06/12 19:24:11 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 255, repro 0
+2023/06/12 19:24:15 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:24:15 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:24:21 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 256, repro 0
+2023/06/12 19:24:31 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 256, repro 0
+2023/06/12 19:24:40 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:24:40 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:24:41 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 257, repro 0
+2023/06/12 19:24:51 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 257, repro 0
+2023/06/12 19:25:01 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 257, repro 0
+2023/06/12 19:25:05 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:25:05 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:25:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 258, repro 0
+2023/06/12 19:25:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 258, repro 0
+2023/06/12 19:25:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 258, repro 0
+2023/06/12 19:25:33 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:25:33 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:25:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 259, repro 0
+2023/06/12 19:25:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 259, repro 0
+2023/06/12 19:25:58 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:25:58 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:26:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 260, repro 0
+2023/06/12 19:26:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 260, repro 0
+2023/06/12 19:26:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 260, repro 0
+2023/06/12 19:26:22 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:26:22 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:26:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 261, repro 0
+2023/06/12 19:26:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 261, repro 0
+2023/06/12 19:26:48 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:26:48 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:26:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 262, repro 0
+2023/06/12 19:27:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 262, repro 0
+2023/06/12 19:27:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 262, repro 0
+2023/06/12 19:27:13 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:27:13 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:27:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 263, repro 0
+2023/06/12 19:27:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 263, repro 0
+2023/06/12 19:27:39 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:27:39 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:27:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 264, repro 0
+2023/06/12 19:27:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 264, repro 0
+2023/06/12 19:28:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 264, repro 0
+2023/06/12 19:28:08 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:28:08 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:28:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 265, repro 0
+2023/06/12 19:28:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 265, repro 0
+2023/06/12 19:28:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 265, repro 0
+2023/06/12 19:28:36 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:28:36 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:28:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 266, repro 0
+2023/06/12 19:28:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 266, repro 0
+2023/06/12 19:29:01 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:29:01 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:29:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 267, repro 0
+2023/06/12 19:29:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 267, repro 0
+2023/06/12 19:29:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 267, repro 0
+2023/06/12 19:29:26 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:29:26 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:29:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 268, repro 0
+2023/06/12 19:29:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 268, repro 0
+2023/06/12 19:29:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 268, repro 0
+2023/06/12 19:29:53 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:29:53 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:30:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 269, repro 0
+2023/06/12 19:30:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 269, repro 0
+2023/06/12 19:30:19 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:30:19 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:30:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 270, repro 0
+2023/06/12 19:30:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 270, repro 0
+2023/06/12 19:30:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 270, repro 0
+2023/06/12 19:30:46 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:30:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:30:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 271, repro 0
+2023/06/12 19:31:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 271, repro 0
+2023/06/12 19:31:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 271, repro 0
+2023/06/12 19:31:16 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:31:16 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:31:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 272, repro 0
+2023/06/12 19:31:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 272, repro 0
+2023/06/12 19:31:41 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:31:41 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:31:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 273, repro 0
+2023/06/12 19:31:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 273, repro 0
+2023/06/12 19:32:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 273, repro 0
+2023/06/12 19:32:06 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:32:06 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:32:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 274, repro 0
+2023/06/12 19:32:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 274, repro 0
+2023/06/12 19:32:32 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:32:32 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:32:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 275, repro 0
+2023/06/12 19:32:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 275, repro 0
+2023/06/12 19:32:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 275, repro 0
+2023/06/12 19:32:57 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:32:57 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:33:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 276, repro 0
+2023/06/12 19:33:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 276, repro 0
+2023/06/12 19:33:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 276, repro 0
+2023/06/12 19:33:22 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:33:22 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:33:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 277, repro 0
+2023/06/12 19:33:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 277, repro 0
+2023/06/12 19:33:51 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:33:51 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:33:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 278, repro 0
+2023/06/12 19:34:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 278, repro 0
+2023/06/12 19:34:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 278, repro 0
+2023/06/12 19:34:16 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:34:16 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:34:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 279, repro 0
+2023/06/12 19:34:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 279, repro 0
+2023/06/12 19:34:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 279, repro 0
+2023/06/12 19:34:42 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:34:42 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:34:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 280, repro 0
+2023/06/12 19:35:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 280, repro 0
+2023/06/12 19:35:07 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:35:07 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:35:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 281, repro 0
+2023/06/12 19:35:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 281, repro 0
+2023/06/12 19:35:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 281, repro 0
+2023/06/12 19:35:33 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:35:33 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:35:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 282, repro 0
+2023/06/12 19:35:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 282, repro 0
+2023/06/12 19:35:58 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:35:58 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:36:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 283, repro 0
+2023/06/12 19:36:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 283, repro 0
+2023/06/12 19:36:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 283, repro 0
+2023/06/12 19:36:23 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:36:23 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:36:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 284, repro 0
+2023/06/12 19:36:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56700, max signal 63169, crashes 284, repro 0
+2023/06/12 19:36:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 284, repro 0
+2023/06/12 19:36:54 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:36:54 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:37:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 285, repro 0
+2023/06/12 19:37:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 285, repro 0
+2023/06/12 19:37:19 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:37:19 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:37:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 286, repro 0
+2023/06/12 19:37:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 286, repro 0
+2023/06/12 19:37:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 286, repro 0
+2023/06/12 19:37:44 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:37:44 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:37:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 287, repro 0
+2023/06/12 19:38:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 287, repro 0
+2023/06/12 19:38:09 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:38:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:38:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 288, repro 0
+2023/06/12 19:38:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 288, repro 0
+2023/06/12 19:38:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 288, repro 0
+2023/06/12 19:38:35 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:38:35 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:38:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 289, repro 0
+2023/06/12 19:38:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 289, repro 0
+2023/06/12 19:39:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 289, repro 0
+2023/06/12 19:39:02 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:39:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:39:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 290, repro 0
+2023/06/12 19:39:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 290, repro 0
+2023/06/12 19:39:28 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:39:28 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:39:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 291, repro 0
+2023/06/12 19:39:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 291, repro 0
+2023/06/12 19:39:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 291, repro 0
+2023/06/12 19:39:55 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:39:55 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:40:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 292, repro 0
+2023/06/12 19:40:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 292, repro 0
+2023/06/12 19:40:21 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:40:21 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:40:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 293, repro 0
+2023/06/12 19:40:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 293, repro 0
+2023/06/12 19:40:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 293, repro 0
+2023/06/12 19:40:47 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:40:47 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:40:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 294, repro 0
+2023/06/12 19:41:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 294, repro 0
+2023/06/12 19:41:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 294, repro 0
+2023/06/12 19:41:12 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:41:12 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:41:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 295, repro 0
+2023/06/12 19:41:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 295, repro 0
+2023/06/12 19:41:37 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:41:37 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:41:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 296, repro 0
+2023/06/12 19:41:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 296, repro 0
+2023/06/12 19:42:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 296, repro 0
+2023/06/12 19:42:03 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:42:03 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:42:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 297, repro 0
+2023/06/12 19:42:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 297, repro 0
+2023/06/12 19:42:30 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:42:30 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:42:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 298, repro 0
+2023/06/12 19:42:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 298, repro 0
+2023/06/12 19:42:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 298, repro 0
+2023/06/12 19:42:56 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:42:56 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:43:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 299, repro 0
+2023/06/12 19:43:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 299, repro 0
+2023/06/12 19:43:21 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:43:21 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:43:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 300, repro 0
+2023/06/12 19:43:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 300, repro 0
+2023/06/12 19:43:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 300, repro 0
+2023/06/12 19:43:46 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:43:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:43:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 301, repro 0
+2023/06/12 19:44:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 301, repro 0
+2023/06/12 19:44:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 301, repro 0
+2023/06/12 19:44:14 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:44:14 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:44:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 302, repro 0
+2023/06/12 19:44:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 302, repro 0
+2023/06/12 19:44:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 302, repro 0
+2023/06/12 19:44:42 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:44:42 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:44:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 303, repro 0
+2023/06/12 19:45:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 303, repro 0
+2023/06/12 19:45:08 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:45:08 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:45:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 304, repro 0
+2023/06/12 19:45:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 304, repro 0
+2023/06/12 19:45:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 304, repro 0
+2023/06/12 19:45:35 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:45:35 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:45:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 305, repro 0
+2023/06/12 19:45:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 305, repro 0
+2023/06/12 19:46:01 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:46:01 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:46:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 306, repro 0
+2023/06/12 19:46:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 306, repro 0
+2023/06/12 19:46:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 306, repro 0
+2023/06/12 19:46:26 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:46:26 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:46:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 307, repro 0
+2023/06/12 19:46:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 307, repro 0
+2023/06/12 19:46:52 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:46:52 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:46:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 308, repro 0
+2023/06/12 19:47:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 308, repro 0
+2023/06/12 19:47:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 308, repro 0
+2023/06/12 19:47:18 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:47:18 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:47:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 309, repro 0
+2023/06/12 19:47:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 309, repro 0
+2023/06/12 19:47:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 309, repro 0
+2023/06/12 19:47:44 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:47:44 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:47:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 310, repro 0
+2023/06/12 19:48:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 310, repro 0
+2023/06/12 19:48:09 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:48:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:48:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 311, repro 0
+2023/06/12 19:48:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 311, repro 0
+2023/06/12 19:48:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 311, repro 0
+2023/06/12 19:48:34 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:48:34 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:48:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 312, repro 0
+2023/06/12 19:48:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 312, repro 0
+2023/06/12 19:48:59 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:48:59 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:49:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 313, repro 0
+2023/06/12 19:49:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 313, repro 0
+2023/06/12 19:49:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 313, repro 0
+2023/06/12 19:49:24 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:49:24 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:49:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 314, repro 0
+2023/06/12 19:49:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 314, repro 0
+2023/06/12 19:49:50 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:49:50 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:49:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 315, repro 0
+2023/06/12 19:50:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 315, repro 0
+2023/06/12 19:50:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 315, repro 0
+2023/06/12 19:50:15 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:50:15 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:50:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 316, repro 0
+2023/06/12 19:50:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 316, repro 0
+2023/06/12 19:50:40 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:50:40 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:50:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 317, repro 0
+2023/06/12 19:50:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 317, repro 0
+2023/06/12 19:51:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 317, repro 0
+2023/06/12 19:51:06 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:51:06 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:51:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 318, repro 0
+2023/06/12 19:51:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 318, repro 0
+2023/06/12 19:51:31 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:51:31 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:51:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 319, repro 0
+2023/06/12 19:51:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 319, repro 0
+2023/06/12 19:51:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 319, repro 0
+2023/06/12 19:51:59 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:51:59 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:52:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 320, repro 0
+2023/06/12 19:52:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 320, repro 0
+2023/06/12 19:52:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 320, repro 0
+2023/06/12 19:52:25 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:52:25 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:52:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 321, repro 0
+2023/06/12 19:52:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 321, repro 0
+2023/06/12 19:52:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 321, repro 0
+2023/06/12 19:52:52 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:52:52 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:53:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 322, repro 0
+2023/06/12 19:53:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 322, repro 0
+2023/06/12 19:53:19 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:53:19 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:53:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 323, repro 0
+2023/06/12 19:53:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 323, repro 0
+2023/06/12 19:53:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 323, repro 0
+2023/06/12 19:53:46 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:53:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:53:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 324, repro 0
+2023/06/12 19:54:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 324, repro 0
+2023/06/12 19:54:12 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:54:12 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:54:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 325, repro 0
+2023/06/12 19:54:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 325, repro 0
+2023/06/12 19:54:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 325, repro 0
+2023/06/12 19:54:37 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:54:37 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:54:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 326, repro 0
+2023/06/12 19:54:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 326, repro 0
+2023/06/12 19:55:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 326, repro 0
+2023/06/12 19:55:02 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:55:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:55:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 327, repro 0
+2023/06/12 19:55:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 327, repro 0
+2023/06/12 19:55:28 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:55:28 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:55:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 328, repro 0
+2023/06/12 19:55:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 328, repro 0
+2023/06/12 19:55:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 328, repro 0
+2023/06/12 19:55:53 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:55:53 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:56:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 329, repro 0
+2023/06/12 19:56:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 329, repro 0
+2023/06/12 19:56:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 329, repro 0
+2023/06/12 19:56:22 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:56:22 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:56:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 330, repro 0
+2023/06/12 19:56:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 330, repro 0
+2023/06/12 19:56:47 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:56:47 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:56:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 331, repro 0
+2023/06/12 19:57:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 331, repro 0
+2023/06/12 19:57:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 331, repro 0
+2023/06/12 19:57:12 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:57:12 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:57:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 332, repro 0
+2023/06/12 19:57:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 332, repro 0
+2023/06/12 19:57:39 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:57:39 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:57:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 333, repro 0
+2023/06/12 19:57:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 333, repro 0
+2023/06/12 19:58:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 333, repro 0
+2023/06/12 19:58:09 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:58:09 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:58:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 334, repro 0
+2023/06/12 19:58:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 334, repro 0
+2023/06/12 19:58:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 334, repro 0
+2023/06/12 19:58:37 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:58:37 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:58:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 335, repro 0
+2023/06/12 19:58:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 335, repro 0
+2023/06/12 19:59:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 335, repro 0
+2023/06/12 19:59:02 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:59:02 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:59:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 336, repro 0
+2023/06/12 19:59:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 336, repro 0
+2023/06/12 19:59:27 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 19:59:27 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 19:59:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 337, repro 0
+2023/06/12 19:59:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 337, repro 0
+2023/06/12 19:59:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 337, repro 0
+2023/06/12 19:59:55 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 19:59:55 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:00:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 338, repro 0
+2023/06/12 20:00:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 338, repro 0
+2023/06/12 20:00:20 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:00:20 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:00:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 339, repro 0
+2023/06/12 20:00:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 339, repro 0
+2023/06/12 20:00:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 339, repro 0
+2023/06/12 20:00:46 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:00:46 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:00:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 340, repro 0
+2023/06/12 20:01:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 340, repro 0
+2023/06/12 20:01:11 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:01:11 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:01:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 341, repro 0
+2023/06/12 20:01:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 341, repro 0
+2023/06/12 20:01:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 341, repro 0
+2023/06/12 20:01:38 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 20:01:38 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:01:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 342, repro 0
+2023/06/12 20:01:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 342, repro 0
+2023/06/12 20:02:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 342, repro 0
+2023/06/12 20:02:03 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:02:03 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:02:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 343, repro 0
+2023/06/12 20:02:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 343, repro 0
+2023/06/12 20:02:29 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:02:29 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:02:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 344, repro 0
+2023/06/12 20:02:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 344, repro 0
+2023/06/12 20:02:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 344, repro 0
+2023/06/12 20:02:54 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:02:54 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:03:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 345, repro 0
+2023/06/12 20:03:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 345, repro 0
+2023/06/12 20:03:20 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:03:20 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:03:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 346, repro 0
+2023/06/12 20:03:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 346, repro 0
+2023/06/12 20:03:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 346, repro 0
+2023/06/12 20:03:47 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:03:47 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:03:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 347, repro 0
+2023/06/12 20:04:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 347, repro 0
+2023/06/12 20:04:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 347, repro 0
+2023/06/12 20:04:13 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 20:04:13 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:04:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 348, repro 0
+2023/06/12 20:04:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 348, repro 0
+2023/06/12 20:04:38 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:04:38 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:04:42 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 349, repro 0
+2023/06/12 20:04:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 349, repro 0
+2023/06/12 20:05:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 349, repro 0
+2023/06/12 20:05:04 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 20:05:04 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:05:12 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 350, repro 0
+2023/06/12 20:05:22 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 350, repro 0
+2023/06/12 20:05:29 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:05:29 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:05:32 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 351, repro 0
+2023/06/12 20:05:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 351, repro 0
+2023/06/12 20:05:52 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 351, repro 0
+2023/06/12 20:05:54 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 20:05:54 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:06:02 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 352, repro 0
+2023/06/12 20:06:12 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 352, repro 0
+2023/06/12 20:06:19 vm-0: crash: panic: invalid argument to Intn
+2023/06/12 20:06:19 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:06:22 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 353, repro 0
+2023/06/12 20:06:32 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 353, repro 0
+2023/06/12 20:06:42 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 353, repro 0
+2023/06/12 20:06:45 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:06:45 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX
+2023/06/12 20:06:52 VMs 0, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 354, repro 0
+2023/06/12 20:07:02 VMs 1, executed 86185, corpus cover 41989, corpus signal 56701, max signal 63169, crashes 354, repro 0
+2023/06/12 20:07:10 vm-0: crash: panic: runtime error: invalid memory address or nil pointer dereference
+2023/06/12 20:07:10 XXXXXXXXXXXXXXXXXX runInstance XXXXXXXXXXXXXXX

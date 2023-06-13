@@ -1,0 +1,19 @@
+{
+    "target": "linux/amd64",
+    "http": "127.0.0.1:56295",
+    "workdir": "/home/clexma/test",
+    "cover": true,
+    "kernel_obj": "/home/clexma/rtkernel/linux/vmlinux",
+    "image": "/home/clexma/rtkernel/image/stretch.img",
+    "sshkey": "/home/clexma/rtkernel/image/stretch.id_rsa",
+    "syzkaller": "/home/clexma/Rtkaller",
+    "procs": 4,
+    "type": "qemu",
+    "reproduce": false,
+    "vm": {
+            "count": 1,
+            "kernel": "/home/clexma/rtkernel/linux/bzImage",
+            "cpu": 2,
+            "mem": 2048
+    }
+}
