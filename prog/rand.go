@@ -552,7 +552,7 @@ func (r *randGen) generateProgRel(s *RelState, currTask []*Prog) []*Call {
 	}
 
 	//TODO: generate program according to relational graph
-
+	
 	return r.generateParticularCall(origS, meta)
 }
 

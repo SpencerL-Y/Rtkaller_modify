@@ -180,10 +180,10 @@ func (proc *Proc) newMutatedTasksRel(fuzzerSnapshot FuzzerSnapshot) []*prog.Prog
 	randomPart = 2
 	for i := 0; i < taskLen-randomPart; i++ {
 		currPt := tasksTemp[i]
-		tasks = append(tasks, currPt.GenerateRndProgram(s, progLen))
+		tasks[i] = currPt.GenerateRndProgram(s, progLen)
 	}
-	for i := randomPart; i < taskLen; i++ {
-		tasks = append(tasks, fuzzerSnapshot.chooseProgram(proc.rnd).Clone())
+	for i := taskLen-randomPart; i < taskLen; i++ {
+		tasks[i] = fuzzerSnapshot.chooseProgram(proc.rnd).Clone()
 	}
 	for _, p := range tasks {
 		p.Mutate(proc.rnd, prog.RecommendedCalls, ct, fuzzerSnapshot.corpus)
